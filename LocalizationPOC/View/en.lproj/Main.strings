@@ -1,0 +1,9 @@
+
+/* Class = "UILabel"; text = "Namaste"; ObjectID = "Cwa-op-MOm"; */
+"Cwa-op-MOm.text" = "Namaste";
+
+/* Class = "UISegmentedControl"; VTV-50-q39.segmentTitles[0] = "English"; ObjectID = "VTV-50-q39"; */
+"VTV-50-q39.segmentTitles[0]" = "English";
+
+/* Class = "UISegmentedControl"; VTV-50-q39.segmentTitles[1] = "Hindi"; ObjectID = "VTV-50-q39"; */
+"VTV-50-q39.segmentTitles[1]" = "Hindi";
